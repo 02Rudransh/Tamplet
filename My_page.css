@@ -556,7 +556,7 @@ li span:last-child{
 }
 .bg-img-2{
     background-image: url(bg_1_N.jpg);
-    height: 100vh;
+    height: 60vh;
     width: 100vw;
     background-size: 200vh;
     background-repeat: no-repeat;
@@ -644,3 +644,83 @@ li span:last-child{
 
 /* -------------------Contact me section start----------------- */
 
+.c-heading{
+    color: white;
+    font-family: "Poppins", Arial, sans-serif;
+    margin-left: 170px;
+    margin-right: 170px;
+    position: relative;
+    text-align: center;
+    margin-top: 80px;
+}
+.big-6{
+    position: absolute;
+    font-size: 7vw;
+    color: rgba(255, 255, 255, 0.1);
+    font-weight: 900;
+    padding-left: 400px;
+    padding-right:400px ;
+}
+.small-6{
+    font-size: 50px;
+    font-weight: 770;
+    margin: 0px;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.c-heading p{
+    color: #999999;
+    font-size: 1vw;
+    line-height: 1.5;
+    font-size: 1vw;
+    margin: 34px;
+}
+/* .c-blocks{
+    color: white;
+    display: flex;
+    font-family: "Poppins", Arial, sans-serif;
+    margin: 0px 250px;
+    padding: 50px 0px;
+} */
+/* .c-box{
+    width: 30%;
+    height:100px ;
+    background-color: rgb(26, 26, 26); 
+    margin: 0 95px;
+    border-radius: 100%;
+}
+.text-6{
+    text-align: center;
+    margin-top: 39px;
+    color: #ffbd39;
+}
+.c-box h3{
+    text-align: center;
+    padding-top: 75px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 200;
+} */
+.main-6-2{
+    color: white;
+    display: flex;
+    margin: 0px 250px;
+    padding: 70px 0px;
+    justify-content: center;
+}
+.c-blocks{
+    width: 30%;
+    text-align: center;
+    
+}
+/* .c-box{
+    text-align: center;
+    padding: 20px;
+} */
+.circle{
+    background-color: rgb(26, 26, 26);
+    height: 100px;
+    width: 100px;
+    margin: 0;
+}
